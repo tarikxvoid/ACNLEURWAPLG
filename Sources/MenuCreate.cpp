@@ -37,7 +37,7 @@ namespace CTRPluginFramework {
 		SAVEC->Append(new MenuEntry("CARAVAN_SET", nullptr, caravanchange, "CARAVAN_SET_NOTE")),
 		SAVEC->Append(new MenuEntry("CAMPING_SET", nullptr, SetCampingVillager, "CAMPING_SET_NOTE")),
 		SAVEC->Append(new MenuEntry("SHOP_UPGRADE", nullptr, shopunlocks, "SHOP_UPGRADE_NOTE")),
-	//SAVEC->Append(new MenuEntry("HOUSE_EDITOR_NAME", nullptr, HouseChanger, "HOUSE_EDITOR_NOTE")),
+	        SAVEC->Append(new MenuEntry("HOUSE_EDITOR_NAME", nullptr, HouseChanger, "HOUSE_EDITOR_NOTE")),
 		SAVEC->Append(new MenuEntry("QR_MACHINE_NAME", nullptr, unlockqrmachine, "QR_MACHINE_NOTE")),
 		SAVEC->Append(new MenuEntry("BUILDING_MOD_NAME", nullptr, BuildingMod, "BUILDING_MOD_NOTE")),
 		SAVEC->Append(new MenuEntry("FILL_MUSEUM_NAME", nullptr, CompleteMuseum, "FILL_MUSEUM_NOTE")),
@@ -136,7 +136,7 @@ namespace CTRPluginFramework {
 		PSAVEC->Append(new MenuEntry("FILL_CATALOG_NAME", nullptr, FillCatalog, "FILL_CATALOG_NOTE")),
 		PLAYC->Append(PSAVEC);
 		PLAYC->Append(new MenuEntry("PLAYER_INFO", debug, "PLAYER_INFO_NOTE")),
-	//PLAYC->Append(new MenuEntry("PLAYER_LOADER", nullptr, pLoaderEntry, "PLAYER_LOADER_NOTE")),
+	        PLAYC->Append(new MenuEntry("PLAYER_LOADER", nullptr, pLoaderEntry, "PLAYER_LOADER_NOTE")),
 		PLAYC->Append(EntryWithHotkey(new MenuEntry("NECK_POSITION", neckentry, "NECK_POSITION_NOTE"), { 
 			Hotkey(Key::L | Key::DPadDown, "NECK_POSITION") 
 		})),
@@ -431,14 +431,14 @@ namespace CTRPluginFramework {
 			Hotkey(Key::R | Key::DPadDown, "Execute Function") 
 		})),
 		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "MSG Box", msgboxtest, "")),
-		//DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Unused Fall Down", falldownfishing, "")),
-		//DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Analyze Fossils", Analyzer, "")),
+		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Unused Fall Down", falldownfishing, "")),
+		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Analyze Fossils", Analyzer, "")),
 		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Test Cheat", islanditems, "")),
 		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "ACNH Cheat", acnh, "")),
-		//DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Friend Code Test", PlayerLoader, "")),
+		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Friend Code Test", PlayerLoader, "")),
 		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Player Dumper", nullptr, player_dumper, "")),
-		//DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Test", valuedisplayer, "")),
-		//DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Extra Save Restore", nullptr, RestoreAll, "")),
+		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Test", valuedisplayer, "")),
+		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Extra Save Restore", nullptr, RestoreAll, "")),
 		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Fish Thrower", FishThrower, "")),
 		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Wand Ability", wandability, "Gives the different wands abilitys.\n" +
 																			  Color::Format("%cBlue Wand: %cNULL\n", Color(0x0089FFFF), Color::White) +
@@ -449,7 +449,7 @@ namespace CTRPluginFramework {
 																			  Color::Format("%cKiki and Lala Wand: %cNULL", Color(0xFF7700FF), Color::White))),
 		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Light Switch Toggler", lightswitch, "Lets you toggle the light switch.\nHotkeys are:\nL + DPadUp : Toggle light in current room\nL + DPadRight : Set Room ID\nL + DPadLeft : Toggle light in set room")),
 		DEVC->Append(new MenuEntry("EXPRESSION_MOD", FacialExpressionMod, SetFacialExpression, "EXPRESSION_MOD_NOTE")),
-		//DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Custom Save Settings", CustomSaveScreen, "")),
+		DEVC->Append(new MenuEntry(Color(0xFF1A69FF) << "Custom Save Settings", CustomSaveScreen, "")),
 		menu->Append(DEVC);
 
 		PluginMenuData::SetUp(SAVEC);
