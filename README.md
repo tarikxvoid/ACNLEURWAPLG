@@ -1,7 +1,7 @@
 # ACNLEURWAPLG by cr4zyskye
 # Forked by:
 # Vapecord-ACNL-Plugin
-![](https://cdn.discordapp.com/attachments/809117521746722827/900748590358601838/vapecordTopScreen.png)
+![](https://github.com/redshyguy/vapecord-acnl-plugin/)
 
 ## Introduction
 I am cr4zyskye and i created this plugin with the help from many other people that are listed at the end of this README.md File.
@@ -18,7 +18,7 @@ If you need help regarding this Plugin join the Server below:/n
 [Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
 
 ## Download
-The download of the plugin is present in the [releases page](https://github.com/tarikxvois/ACNLEURWAPLG/releases)!
+The download of the plugin is present in the [releases page](https://github.com/tarikxvoid/ACNLEURWAPLG/releases)!
 
 ## Help
 If you need any help or dont know how to install it please join the Server below:
