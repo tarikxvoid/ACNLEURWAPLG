@@ -162,27 +162,11 @@ namespace CTRPluginFramework {
 		return true;
 	}
 //If item is valid
-	bool IDList::ItemValid(Item itemID, bool IsDropped) {
-		u16 item = itemID.ID;
-		u16 flag = itemID.Flags;
-
-		if(!FlagValid(flag, IsDropped))
-			return false;
-
-		if((item & 0xFFFF) >> 12 == 4 || (item & 0xFFFF) >> 12 == 5) //if present
-			item = item - 0x2000; //convert present to standard Item ID to know if it is valid
-
-	//If player is outdoors or doesnt drop item
-		if(!IsIndoorsBool || !IsDropped) {
-			if(IS(item, 0x7FFE) || RANGE(item, 0, 0xFD)) 
-				return true;
-		}
-
-		if(RANGE(item, 0x2001, 0x2060) || RANGE(item, 0x2089, 0x2185) || RANGE(item, 0x21E4, 0x22DF) || RANGE(item, 0x22E1, 0x30CB) || RANGE(item, 0x30D2, 0x3108) || RANGE(item, 0x3130, 0x33B4) || RANGE(item, 0x33BC, 0x34CD) || RANGE(item, 0x3726, 0x372A))
-			return true;
-		
-		return false;
-	}
+    bool IDList::ItemValid(Item itemID, bool IsDropped) {
+        (void)ItemID;
+        (void)IsDropped;
+        return true;
+    }
 
 //If tool is valid
 	bool IDList::ToolsValid(Item toolsID) {
