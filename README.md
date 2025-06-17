@@ -6,11 +6,11 @@
 ## Introduction
 I am cr4zyskye and i created this plugin with the help from many other people that are listed at the end of this README.md File.
 
-## Plugin
+## Plugin Info
 This Plugin is for every version and region of Animal Crossing New Leaf!
 It does work with the ROM Hack: [Welcome Luxury](https://gitlab.com/Kyusetzu/ACWL)!!
 
-#### Plugin Features
+## Plugin Features
 This Plugin has all features from the Vapecord Plugin!
 Here are some listed features that Vapecord doesnt have.
 Text2Item - Works with EVERY ID (Crashable & Corruptable)
