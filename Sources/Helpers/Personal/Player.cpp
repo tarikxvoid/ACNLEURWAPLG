@@ -163,7 +163,6 @@ Get Player Save Offset for loaded players
 		}
 		return true;
 	}
-/*
 //Clear Mail in inv
 	void Player::ClearMail(int slot) {
 		if(Player::GetSaveOffset(4) == 0)
@@ -222,7 +221,6 @@ Get Player Save Offset for loaded players
 		static FUNCT func7(RemoveMailOffset);
 		func7.Call<void>(*(u32 *)(MailPoint + 0xA328), slot);
 	}
-*/
 
 /*
 If player exitst
