@@ -1,5 +1,6 @@
 # ACNLEURWAPLG by cr4zyskye
-# Forked by Vapecord-ACNL-Plugin
+# Forked by:
+# Vapecord-ACNL-Plugin
 ![](https://cdn.discordapp.com/attachments/809117521746722827/900748590358601838/vapecordTopScreen.png)
 
 ## Introduction
