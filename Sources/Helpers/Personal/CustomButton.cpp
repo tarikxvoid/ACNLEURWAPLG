@@ -114,7 +114,7 @@ Custom Buttons
 		Code::RestoreOutfitWindow.Call<void>(*(u32 *)(GameHelper::BaseInvPointer() + 0xC));
 	}
 
-	/*void claim(void) {
+	void claim(void) {
 		u32 DesignData = *(u32 *)(GameHelper::BaseInvPointer() + 0xC) + 0x464; //0x32DC4E1C
 		
 		const u32 GetSlot = 0x724214;
@@ -169,7 +169,6 @@ Custom Buttons
 		    hook.Disable();
 		}
 	}
-	*/	
 
 	static int itemsetting1 = 0;
 	static int itemsetting2 = 0;
