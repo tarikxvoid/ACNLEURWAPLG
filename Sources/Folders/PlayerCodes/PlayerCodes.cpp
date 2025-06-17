@@ -108,7 +108,6 @@ namespace CTRPluginFramework {
 	}
 
 //player loader | for now disabled
-/*
 	void pLoaderEntry(MenuEntry *entry) {
 		if(!PlayerClass::GetInstance()->IsLoaded()) {
 			MessageBox(Language->Get("SAVE_PLAYER_NO")).SetClear(ClearScreen::Both)();
