@@ -1592,7 +1592,7 @@ namespace CTRPluginFramework {
 			SetPlayerFlag(&player->PlayerFlags, index, false);
 		}
 	}
-/*
+
 //Hook
 	bool randomfall(void) {
 		if(Player::GetTool() == 0x3357) 
@@ -1616,9 +1616,7 @@ namespace CTRPluginFramework {
 		if(!entry->IsActivated()) 
             hook.Disable();
 	}
-*/
 
-/*
 	u32 FUN_001C4940(void) {
   		return *(u32 *)(0x951378 + 0x18);
 	}
@@ -1658,9 +1656,7 @@ namespace CTRPluginFramework {
 		}
 		return iVar1;
 	}
-*/
 
-/*
 //Analyze fossils
 	void Analyzer(MenuEntry *entry) {
 		u32 item = Inventory::ReadSlot(Inventory::GetSelectedSlot());
@@ -1668,23 +1664,17 @@ namespace CTRPluginFramework {
 		if(item == 0x202A) 
 			Inventory::WriteSlot(Inventory::GetSelectedSlot(), Utils::Random(0x3130, 0x3172));
 	}
-*/
 
-/*
 //u32 Currentmap(0x9B5A24, 0x9B4A24, 0x9B4A24, 0x9B4A24, 0x9AEA04, 0x9ADA04, 0x9ADA24, 0x9ADA24);
 	void ItemPlacer(u32* ItemID) {
 		static FUNCT func(0x581E3C);
 		func.Call<void>(GameHelper::GetCurrentMap(), ItemID, PlayerClass::GetInstance()->GetCoordinates(), 0);
 	}
-*/
 	
 
-	/*
 	Function which sets coordinates and all to storage for player
 	68dee8(u32 pinstance)
-	*/
 
-	/*
 	assigns data to save menu (options)
 	void FUN_005e7fd8(int param_1)
 
@@ -1694,9 +1684,7 @@ namespace CTRPluginFramework {
 	void FUN_006a2b6c(undefined4 param_1)
 
 	0x6A3620(0x3307D284); //executes func for save menu
-	*/
 
-/*
 	u32 soundArray[11] = {
 		0x0100038E, 0x01000392, 0x0100038C, 0x010003E8, 
 		0x010003E9, 0x0100038F, 0x0100038D, 0x010003C5, 
@@ -1836,11 +1824,10 @@ namespace CTRPluginFramework {
 			hook.SetReturnAddress(0x5E821C);
 			hook.Enable();
 		}
-*/
 
 	//FUN_00584d88(int param_1,undefined4 param_2) Sets shampoodle sound?
 	
-	/*void SetMusic(u32 *data0x98B018, u32 soundID0x10000B2) {
+	void SetMusic(u32 *data0x98B018, u32 soundID0x10000B2) {
 		FUNCT(0x2FD0BC).Call<void>(0x2C, data[1], 4);
 
 		u32 **var = FUNCT(0x586744).Call<u32 **>(data);
@@ -1870,7 +1857,6 @@ namespace CTRPluginFramework {
 	32238D94 = ModuleTour.cro
 
 	32239378 = ModuleKotobuki.cro
-	*/
 
 	int sound = 0x113;
 //Item Island Code
@@ -1936,7 +1922,7 @@ namespace CTRPluginFramework {
 	}
 	
 	void PlayerLoader(MenuEntry *entry) {
-		/*if(Controller::IsKeysPressed(Key::L + Key::DPadRight)) {
+		if(Controller::IsKeysPressed(Key::L + Key::DPadRight)) {
 			u32 principalID = 0;
 			u64 *friendcode = nullptr;
 			Keyboard KB("Enter Principal ID");
@@ -1945,10 +1931,10 @@ namespace CTRPluginFramework {
 				FRD_PrincipalIdToFriendCode(principalID, friendcode);
 				OSD::Notify(Utils::Format("FriendCode: %ld", *friendcode));
 			}
-		}*/
+		}
 	}
 
-	/*bool ScreenshotmapperL(void) {
+	bool ScreenshotmapperL(void) {
 		return Controller::IsKeyDown(Key::ZL);
 	}
 
@@ -2076,7 +2062,7 @@ namespace CTRPluginFramework {
 	}
 
 //player_dumper 33077C8A
-	/*void RestoreAll(MenuEntry *entry) {
+	void RestoreAll(MenuEntry *entry) {
 		const std::vector<std::string> select = {
 			Color(0x0077FFFF) << "Restore Exhibition",
 			Color(0xFFDE00FF) << "Restore Friend",
