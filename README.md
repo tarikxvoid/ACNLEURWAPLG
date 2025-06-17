@@ -21,18 +21,18 @@ If you need help regarding this Plugin join the Server below:/n
 The download of the plugin is present in the [releases page](https://github.com/tarikxvois/ACNLEURWAPLG/releases)!
 
 ## Help
-If you need any help or dont know how to install it please join the Server below:/n
+If you need any help or dont know how to install it please join the Server below:
 [Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
 
 # CREDITS:
-@RedShyGuy (Vapecord Creator)/n
- [DISCORD](https://discordapp.com/users/522105209762217998)/n
+@RedShyGuy (Vapecord Creator)
+ [DISCORD](https://discordapp.com/users/522105209762217998)
  [GITHUB](https://github.com/RedShyGuy)
 
-@foofoo_the_guy (Helped Removing Item Protection)/n
- [DISCORD](https://discordapp.com/users/468759953050697748)/n
+@foofoo_the_guy (Helped Removing Item Protection)
+ [DISCORD](https://discordapp.com/users/468759953050697748)
  [GITHUB](https://github.com/FoofooTheGuy)
 
-@thib.py (Helped Removing Item Protection)/n
- [DISCORD](https://discordapp.com/users/439473362276712469)/n
+@thib.py (Helped Removing Item Protection)
+ [DISCORD](https://discordapp.com/users/439473362276712469)
  [GITHUB]()
