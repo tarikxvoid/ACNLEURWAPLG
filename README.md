@@ -33,6 +33,6 @@ If you need any help or dont know how to install it please join the Server below
  [DISCORD](https://discordapp.com/users/468759953050697748)
  [GITHUB](https://github.com/FoofooTheGuy)
 
-@thib.py (Helped Removing Item Protection)
+@chouketteuh (Helped Removing Item Protection)
  [DISCORD](https://discordapp.com/users/439473362276712469)
- [GITHUB]()
+ [GITHUB](https://github.com/chouketteuh)
