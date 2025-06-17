@@ -750,7 +750,6 @@ namespace CTRPluginFramework {
 			default: break;
 		}
 	}
-/*
 	bool IsVillagerBoxed(u32 VillagerData) {
 		u8 flag = *(u8 *)(VillagerData + 0x24E4 + 0x2C);
 		return (flag == 1);
@@ -810,13 +809,13 @@ namespace CTRPluginFramework {
 			//MessageBox("Boxed!").SetClear(ClearScreen::Top)();
 		}
 		VillagerEditor(entry);
-	}*/
+	}
 	//31F54C54
 	//308cc8
 	//0x31F50224, 5, 31F5BB9C, 0
 	//3110F4(0x31F50224/*Villager Start*/, 4, 0x31F59684/*Villager Save*/, 0)
 
-	/*VILLAGERS = 			0x292D0; //Villager Start
+	VILLAGERS = 			0x292D0; //Villager Start
 	VILLAGER_ID = 			0x00;
 	VILLAGER_PERSONALITY = 	0x02;
 	VILLAGER_STOREDLETTER = 0x17C4;
