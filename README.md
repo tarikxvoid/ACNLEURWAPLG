@@ -1,21 +1,37 @@
-# Vapecord-ACNL-Plugin
+# ACNLEURWAPLG by cr4zyskye
+# Forked by Vapecord-ACNL-Plugin
 ![](https://cdn.discordapp.com/attachments/809117521746722827/900748590358601838/vapecordTopScreen.png)
 
 ## Introduction
-Hello I am Lukas and I created this plugin!
-It gets updated very frequently and I always try to make it as stable as possible!
+I am cr4zyskye and i created this plugin with the help from many other people that are listed at the end of this README.md File.
 
 ## Plugin
-The Vapecord-ACNL-Plugin is an Animal Crossing New Leaf Plugin as the name already tells, it works for every Region of the game.
-You can even use it for the Rom Hack [Welcome Luxury](https://gitlab.com/Kyusetzu/ACWL)!! 
+This Plugin is for every version and region of Animal Crossing New Leaf!
+It does work with the ROM Hack: [Welcome Luxury](https://gitlab.com/Kyusetzu/ACWL)!!
+
 #### Plugin Features
-The Plugin can do various things like Text2Item, AutoDrop, Animation Modifier, Room Warping and much much more!!
-If you feel like the Plugin is missing something feel free to suggest things on the official [Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
+This Plugin has all features from the Vapecord Plugin!
+Here are some listed features that Vapecord doesnt have.
+Text2Item - Works with EVERY ID (Crashable & Corruptable)
+If you need help regarding this Plugin join the Server below:
+[Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
 
 ## Download
-The download of the plugin is present in the [releases page](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin/releases)!
+The download of the plugin is present in the [releases page](https://github.com/tarikxvois/ACNLEURWAPLG/releases)!
 
 ## Help
-If you need any help with the plugin features or don't understand how to install it, read the [Wiki of the Plugin](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin/wiki)! Check the [FAQ](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin/wiki/FAQ) as well for any questions.
+If you need any help or dont know how to install it please join the Server below:
+[Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
 
-If you still don't understand some things you can get immediate help on the [Vapecord Discord Server](https://discord.gg/QwqdBpKWf3)!!
+# CREDITS:
+@RedShyGuy (Vapecord Creator)
+ [DISCORD](https://discordapp.com/users/522105209762217998)
+ [GITHUB](https://github.com/RedShyGuy)
+
+@foofoo_the_guy (Helped Removing Item Protection)
+ [DISCORD](https://discordapp.com/users/468759953050697748)
+ [GITHUB](https://github.com/FoofooTheGuy)
+
+@thib.py (Helped Removing Item Protection)
+ [DISCORD](https://discordapp.com/users/439473362276712469)
+ [GITHUB]()
