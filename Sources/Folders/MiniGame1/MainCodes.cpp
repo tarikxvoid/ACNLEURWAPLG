@@ -3,7 +3,6 @@
 #include "Helpers/CROEditing.hpp"
 
 namespace CTRPluginFramework {
-/*
     u32 GetMiniGame1Data(u32 add) {
         static const Address obj_data(0x8049094, 0, 0, 0, 0, 0, 0, 0); //MiniGame1(0xB09000) + 0x1FA2C
         return *(u32 *)(obj_data) + add;
@@ -13,7 +12,6 @@ namespace CTRPluginFramework {
     int GetCurrentRowRequirement(void) {
         return *(int *)GetMiniGame1Data(0x2F34);
     }
-*/
 
     void InstantWin(MenuEntry *entry) {
         CRO::Write<u32>("MiniGame1", 0x1F880, 0xE5C4B024);
