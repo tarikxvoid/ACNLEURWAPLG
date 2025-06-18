@@ -1,7 +1,7 @@
 # ACNLEURWAPLG by:<br>[@cr4zyskye](https://discordapp.com/users/1116452227851235398)
 # Forked by:<br>[Vapecord-ACNL-Plugin](https://github.com/redshyguy/vapecord-acnl-plugin/)
 
-## WARNING: USE AT YOUR OWN RISK!
+# WARNING:<br>USE AT YOUR OWN RISK!
 
 By using this plugin, you accept full responsibility for any damage caused to your game, system, or data. This version is intended for advanced users who understand the risks of using unstable or experimental cheats.
 
