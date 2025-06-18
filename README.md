@@ -29,7 +29,8 @@ Villager Editor (1% Done)
 You can download the Plugin at the [Releases Page](https://github.com/tarikxvoid/ACNLEURWAPLG/releases)!
 If you are downloading it and AntiVirus Blocks it deactivate AntiVirus as it DOES NOT include annything malicious.<br>
 You can check for malicious files on [Virus Total](https://www.virustotal.com/) by just uploading there the ZIP file.<br>
-MaxSecure is known to detect it as: Trojan.Malware.300983.susgen<br>
+MaxSecure is known to detect it as: Trojan.Malware.300983.susgen
+<br>
 This is an False Positive (False Detection)!<br>
 Means it does not include an Virus.<br>
 
