@@ -29,11 +29,11 @@ If you need any help or dont know how to install it please join the Server below
 [Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
 
 # CREDITS:
-@cr4zyskye (ACNLEURWAPLG)[https://github.com/tarikxvoid/ACNLEURWAPLG/] Owner<br>
+@cr4zyskye [ACNLEURWAPLG](https://github.com/tarikxvoid/ACNLEURWAPLG/) Owner<br>
  [DISCORD](https://discordapp.com/users/1116452227851235398)<br>
  [GITHUB](https://github.com/tarikxvoid)
  
-@RedShyGuy (Vapecord-ACNL-Plugin)[https://github.com/RedShyGuy/Vapecord-ACNL-Plugin] Owner<br>
+@RedShyGuy [Vapecord-ACNL-Plugin](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) Owner<br>
  [DISCORD](https://discordapp.com/users/522105209762217998)<br>
  [GITHUB](https://github.com/RedShyGuy)
 
