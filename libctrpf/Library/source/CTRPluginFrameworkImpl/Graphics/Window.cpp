@@ -12,8 +12,8 @@ namespace CTRPluginFramework
     static const char g_ctrpfText[] = "Powered by CTRPluginFramework";
     static const char g_copyrightText[] = "Copyright (c) The Pixellizer Group";
     //vapecord infobar
-    static const char g_credits[] = "Cheats made by Lukas#4444";
-    static const char g_discord[] = "Discord: discord.gg/QwqdBpKWf3";
+    static const char g_credits[] = "Made by cr4zyskye (Forked from Vapecord-ACNL-Plugin)";
+    static const char g_discord[] = "Support Server: discord.gg/QwqdBpKWf3";
     
     static u32 g_textXpos[4] = { 0 };
     
