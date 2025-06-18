@@ -19,25 +19,25 @@ It does work with the ROM Hack: [Welcome Luxury](https://gitlab.com/Kyusetzu/ACW
 This Plugin has all features from the Vapecord Plugin!
 Here are some listed features that Vapecord doesnt have.
 Text2Item - Works with EVERY ID (Crashable & Corruptable)
-If you need help regarding this Plugin join the Server below:/n
+If you need help regarding this Plugin join the Server below:<br>
 [Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
 
 ## Download
 The download of the plugin is present in the [releases page](https://github.com/tarikxvoid/ACNLEURWAPLG/releases)!
 
 ## Help
-If you need any help or dont know how to install it please join the Server below:
+If you need any help or dont know how to install it please join the Server below:<br>
 [Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
 
 # CREDITS:
-@RedShyGuy (Vapecord Creator)\n
- [DISCORD](https://discordapp.com/users/522105209762217998)\n
+@RedShyGuy (Vapecord Creator)<br>
+ [DISCORD](https://discordapp.com/users/522105209762217998)<br>
  [GITHUB](https://github.com/RedShyGuy)
 
-@foofoo_the_guy (Helped Removing Item Protection)\n
- [DISCORD](https://discordapp.com/users/468759953050697748)\n
+@foofoo_the_guy (Helped Removing Item Protection)<br>
+ [DISCORD](https://discordapp.com/users/468759953050697748)<br>
  [GITHUB](https://github.com/FoofooTheGuy)
 
-@chouketteuh (Helped Removing Item Protection)\n
- [DISCORD](https://discordapp.com/users/439473362276712469)\n
+@chouketteuh (Helped Removing Item Protection)<br>
+ [DISCORD](https://discordapp.com/users/439473362276712469)<br>
  [GITHUB](https://github.com/chouketteuh)
