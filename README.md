@@ -21,6 +21,9 @@ Text2Item - Works with EVERY ID (Crashable & Corruptable)
 If you need help regarding this Plugin join the Server below:<br>
 [Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
 
+## Upcoming Features:
+Villager Editor (1% Done)
+
 ## Download
 The download of the plugin is present in the [releases page](https://github.com/tarikxvoid/ACNLEURWAPLG/releases)!
 
