@@ -1,4 +1,4 @@
-# ACNLEURWAPLG by cr4zyskye
+# ACNLEURWAPLG by [@cr4zyskye](
 # Forked by:<br>[Vapecord-ACNL-Plugin](https://github.com/redshyguy/vapecord-acnl-plugin/)
 
 ## WARNING: USE AT YOUR OWN RISK!
@@ -29,6 +29,10 @@ If you need any help or dont know how to install it please join the Server below
 [Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
 
 # CREDITS:
+@cr4zyskye (ACNLEURWAPLG Owner)<br>
+ [DISCORD](https://discordapp.com/users/1116452227851235398)<br>
+ [GITHUB](https://github.com/tarikxvoid)
+ 
 @RedShyGuy (Vapecord-ACNL-Plugin Owner)<br>
  [DISCORD](https://discordapp.com/users/522105209762217998)<br>
  [GITHUB](https://github.com/RedShyGuy)
