@@ -1,8 +1,8 @@
 #include <CTRPluginFramework.hpp>
 
 #define majorV 1
-#define minorV 9
-#define revisV 6
+#define minorV 0
+#define revisV 0
 
 namespace CTRPluginFramework {
     enum class CONFIG : s64 {
