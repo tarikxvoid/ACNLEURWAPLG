@@ -1,4 +1,4 @@
-# ACNLEURWAPLG by [@cr4zyskye](
+# ACNLEURWAPLG by @cr4zyskye
 # Forked by:<br>[Vapecord-ACNL-Plugin](https://github.com/redshyguy/vapecord-acnl-plugin/)
 
 ## WARNING: USE AT YOUR OWN RISK!
