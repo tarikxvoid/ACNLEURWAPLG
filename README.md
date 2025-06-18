@@ -1,6 +1,5 @@
 # ACNLEURWAPLG by cr4zyskye
-# Forked by:
-# [Vapecord-ACNL-Plugin](https://github.com/redshyguy/vapecord-acnl-plugin/)
+# Forked by:<br>[Vapecord-ACNL-Plugin](https://github.com/redshyguy/vapecord-acnl-plugin/)
 
 ## WARNING: USE AT YOUR OWN RISK!
 
