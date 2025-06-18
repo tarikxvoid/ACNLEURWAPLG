@@ -202,7 +202,7 @@ prevent any issues with freezing of the plugin
 	void InitKeepConnection(void);
 
 	int	main(void) {
-		PluginMenu *menu = new PluginMenu(Color::White << "ACNL Vapecord Plugin " << GetRegionName(), majorV, minorV, revisV, Note);
+		PluginMenu *menu = new PluginMenu(Color::White << "NookCorp Systems " << GetRegionName(), majorV, minorV, revisV, Note);
 		menu->SynchronizeWithFrame(true);
 
 		CheckForCONFIG();
