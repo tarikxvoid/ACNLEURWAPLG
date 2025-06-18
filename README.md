@@ -30,14 +30,14 @@ If you need any help or dont know how to install it please join the Server below
 [Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
 
 # CREDITS:
-@RedShyGuy (Vapecord Creator)<br>
+@RedShyGuy (Vapecord-ACNL-Plugin Owner)<br>
  [DISCORD](https://discordapp.com/users/522105209762217998)<br>
  [GITHUB](https://github.com/RedShyGuy)
 
-@foofoo_the_guy (Helped Removing Item Protection)<br>
+@foofoo_the_guy<br>
  [DISCORD](https://discordapp.com/users/468759953050697748)<br>
  [GITHUB](https://github.com/FoofooTheGuy)
 
-@chouketteuh (Helped Removing Item Protection)<br>
+@chouketteuh<br>
  [DISCORD](https://discordapp.com/users/439473362276712469)<br>
  [GITHUB](https://github.com/chouketteuh)
