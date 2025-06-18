@@ -2,6 +2,12 @@
 # Forked by:
 # [Vapecord-ACNL-Plugin](https://github.com/redshyguy/vapecord-acnl-plugin/)
 
+# WARNING: USE AT YOUR OWN RISK!
+
+By using this plugin, you accept full responsibility for any damage caused to your game, system, or data. This version is intended for advanced users who understand the risks of using unstable or experimental cheats.
+
+I strongly recommend making a backup of your save before using this plugin as it could damage your save file resulting in an corrupted save file.
+
 ## Introduction
 I am cr4zyskye and i created this plugin with the help from many other people that are listed at the end of this README.md File.
 
