@@ -23,7 +23,7 @@ If you need help regarding this Plugin join the Server below:<br>
 [Vapecord Discord Server](https://discord.gg/QwqdBpKWf3).
 
 ## Upcoming Features:
-Villager Editor (1% Done)
+Villager Editor (1% Done)<br>
 House Editor (50% Done) {WARNING - COULD CORRUPT YOUR SAVE FILE}
 
 ## Download
