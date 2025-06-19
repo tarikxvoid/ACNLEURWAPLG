@@ -24,6 +24,7 @@ If you need help regarding this Plugin join the Server below:<br>
 
 ## Upcoming Features:
 Villager Editor (1% Done)
+House Editor (50% Done) {WARNING - COULD CORRUPT YOUR SAVE FILE}
 
 ## Download
 You can download the Plugin at the [Releases Page](https://github.com/tarikxvoid/ACNLEURWAPLG/releases)!
