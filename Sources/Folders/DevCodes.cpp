@@ -164,7 +164,7 @@ namespace CTRPluginFramework {
 			OSD::Notify(Utils::Format("Returned Value: %08X", result));
 		}
     }
-
+/*
 	void player_dumper(MenuEntry *entry) {
 		ACNL_Player *player = Player::GetSaveData();
 
@@ -231,7 +231,7 @@ namespace CTRPluginFramework {
 			break;
 		}
 	}
-
+*/
 	void SetPlayerFlag(Player_Flags *playerFlag, int index, bool set) {
 		switch(index) {
 			default: break;
@@ -1658,6 +1658,7 @@ namespace CTRPluginFramework {
 	}
 
 //Analyze fossils
+/*
 	void Analyzer(MenuEntry *entry) {
 		u32 item = Inventory::ReadSlot(Inventory::GetSelectedSlot());
 		
@@ -1814,7 +1815,8 @@ namespace CTRPluginFramework {
 			i++;
 		}
 	}
-
+*/
+/*
 
 	void CustomSaveScreen(MenuEntry *entry) {
 		if(entry->WasJustActivated()) {
@@ -1920,7 +1922,7 @@ namespace CTRPluginFramework {
 			delete[] globalData;
 		}*/
 	}
-	
+	/*
 	void PlayerLoader(MenuEntry *entry) {
 		if(Controller::IsKeysPressed(Key::L + Key::DPadRight)) {
 			u32 principalID = 0;
